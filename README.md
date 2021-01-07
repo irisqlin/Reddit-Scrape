@@ -1,6 +1,5 @@
 # si-422-FinalProject
-# Using Reddit's API PRAW, scraped all posts from subreddit's relating to coronavirus using keywords such as "covid" and "covid 19". 
-# Graphs show the most popular words used in relation to this topic. 
+Using Reddit's API PRAW, scraped all posts from subreddit's relating to coronavirus using keywords such as "covid" and "covid 19". Graphs show the most popular words used in relation to this topic. 
 
 finalproj.py 
 - has personal keys and passwords removed but can be generated for personal use with reddit
