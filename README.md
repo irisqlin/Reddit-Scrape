@@ -1,4 +1,4 @@
-# SI 422 - Final Project
+# SI 206 - Final Project
 # University of Michigan 
 
 Using Reddit's API PRAW, scraped all posts from subreddit's relating to coronavirus using keywords such as "covid" and "covid 19". Graphs show the most popular words used in relation to this topic. 
